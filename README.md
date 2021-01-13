@@ -1,2 +1,2 @@
 # stiegler
-ouvrages de Bernard Stiegler en .md
+Bernard Stiegler en .md
